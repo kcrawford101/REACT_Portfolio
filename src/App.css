@@ -15,18 +15,23 @@
   background-color: #8AC6D0;
 }
 
+.nav-items {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
 .about-me {
   background-color: #393D3F;
   color: #B8F3FF;
   padding: 5px;
   margin: 20px;
   width: fit-content;
-  text-align: start;
+  text-align: start;  
 }
 
 .project-container {
-  margin: 20px;  
-  text-align: start;
+  margin: 20px;
 }
 
 /* .App-logo {
