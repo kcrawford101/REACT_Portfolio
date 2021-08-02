@@ -11,8 +11,22 @@
 }
 
 .App {
-  /* text-align: center;   */
+  text-align: center;  
   background-color: #8AC6D0;
+}
+
+.about-me {
+  background-color: #393D3F;
+  color: #B8F3FF;
+  padding: 5px;
+  margin: 20px;
+  width: fit-content;
+  text-align: start;
+}
+
+.project-container {
+  margin: 20px;  
+  text-align: start;
 }
 
 /* .App-logo {
