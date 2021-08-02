@@ -1,6 +1,6 @@
 import React from 'react';
 import * as ReactBootStrap from "react-bootstrap";
-import '../Navbar/Navbar.css'
+
 
 const Navbar = () => {
     return (
