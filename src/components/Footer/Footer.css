@@ -1,0 +1,15 @@
+:root {
+    --middleBlue: #8AC6D0;
+    --blizzardBlue: #B8F3FF;
+    --onyx: #393D3F;
+}
+
+.main-footer{
+    color: var(--blizzardBlue);
+    background-color: var(--onyx);
+    text-align: center;
+    position: relative;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;    
+}
